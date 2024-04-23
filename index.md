@@ -2,7 +2,7 @@
 layout: cv
 title: David Whipp's CV
 ---
-# David Whipp
+# Kaustubh Nimkar
 Professor, University of Helsinki
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
@@ -22,9 +22,6 @@ FI-00014 University of Helsinki, Finland<br/>
 </div>
 
 ## Education
-
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
 
 `1998-2002`
 **B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
